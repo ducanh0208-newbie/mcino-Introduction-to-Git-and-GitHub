@@ -1,5 +1,3 @@
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/47879e25-48c9-4d06-94c0-fcb914dc3df8" /># mcino-Introduction-to-Git-and-GitHub
-Paradise Nursery Shopping Application
 # Paradise Nursery Shopping Application
 
 Paradise Nursery is an interactive, user-friendly e-commerce web application built with React and Redux Toolkit for an online plant shop. Users can browse various categories of houseplants, view plant details (images, names, prices, descriptions), add items to their shopping cart, adjust quantities, and calculate total costs dynamically.
